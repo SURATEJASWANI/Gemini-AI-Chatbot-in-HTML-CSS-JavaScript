@@ -51,7 +51,7 @@ const API_KEY = "your_API_KEY";
 ✅ Chrome (Desktop + Android) <br>
 ✅ Edge <br>
 ✅ Firefox (partial voice support) <br>
-❌ Safari (voice input not supported) <br>
+❌ Safari (voice input not supported) <br><br>
 
 
 **Copyrights© 2025 Sura Tejaswani**. All rights reserved.
