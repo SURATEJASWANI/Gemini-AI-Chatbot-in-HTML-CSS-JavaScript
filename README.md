@@ -53,7 +53,7 @@ const API_KEY = "your_API_KEY";
 ✅ Firefox (partial voice support) <br>
 ❌ Safari (voice input not supported) <br>
 
-License
-This project is open-source under the MIT License.
 
 **Copyrights© 2025 Sura Tejaswani**. All rights reserved.
+License <br>
+This project is open-source under the MIT License.
