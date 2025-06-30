@@ -40,7 +40,7 @@ Gemini-AI-Chatbot-in-HTML-CSS-JavaScript <br>
 
 ## 🔐 API Key Setup
 
-To use the Gemini API, get your API key from [Google AI Studio](https://makersuite.google.com/) and replace it in index.js:
+To use the Gemini API, get your API key from [Google AI Studio](https://makersuite.google.com/) and replace it in script.js:
 
 const API_KEY = "your_API_KEY";
 
