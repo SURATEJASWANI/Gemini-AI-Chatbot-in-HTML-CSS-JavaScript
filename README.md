@@ -21,7 +21,7 @@ A modern, responsive chatbot built using HTML, CSS, and JavaScript — powered b
 
 ## 📁 Project Structure
 
-gemini-chatbot/
+gemini-chatbot <br>
 ├── index.html # Main HTML layout/
 ├── style.css # Responsive and modern UI styles/
 ├── index.js # All chatbot logic (message flow, API call, voice)/
