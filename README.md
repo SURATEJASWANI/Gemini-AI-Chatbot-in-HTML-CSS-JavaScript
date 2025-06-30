@@ -10,22 +10,22 @@ A modern, responsive chatbot built using HTML, CSS, and JavaScript — powered b
 
 ## 🛠 Features
 
-- ✅ Gemini 2.0 Flash API integration
-- ✅ Voice-to-text input (SpeechRecognition)
-- ✅ Typing indicator & smooth message animation
-- ✅ Scroll-to-bottom and clear chat
-- ✅ Mobile responsive layout
-- ✅ Modern UI with Font Awesome icons
+✅ Gemini 2.0 Flash API integration <br>
+✅ Voice-to-text input (SpeechRecognition) <br>
+✅ Typing indicator & smooth message animation <br>
+✅ Scroll-to-bottom and clear chat <br>
+✅ Mobile responsive layout <br>
+✅ Modern UI with Font Awesome icons <br>
 
 ---
 
 ## 📁 Project Structure
 
 gemini-chatbot <br>
-├── index.html # Main HTML layout/
-├── style.css # Responsive and modern UI styles/
-├── index.js # All chatbot logic (message flow, API call, voice)/
-└── README.md # Project info and instructions/
+├── index.html # Main HTML layout <br>
+├── style.css # Responsive and modern UI styles <br>
+├── index.js # All chatbot logic (message flow, API call, voice) <br>
+└── README.md # Project info and instructions <br>
 
 ---
 
@@ -48,10 +48,10 @@ const API_KEY = "your_API_KEY";
 
 ##🧪 Tested On
 
-✅ Chrome (Desktop + Android)/
-✅ Edge/
-✅ Firefox (partial voice support)/
-❌ Safari (voice input not supported)/
+✅ Chrome (Desktop + Android) <br>
+✅ Edge <br>
+✅ Firefox (partial voice support) <br>
+❌ Safari (voice input not supported) <br>
 
 License
 This project is open-source under the MIT License.
