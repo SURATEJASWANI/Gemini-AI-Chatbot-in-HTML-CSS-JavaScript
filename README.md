@@ -20,12 +20,12 @@ A modern, responsive chatbot built using HTML, CSS, and JavaScript — powered b
 ---
 
 ## 📁 Project Structure
-
+'''
 gemini-chatbot/
--├── index.html # Main HTML layout
--├── style.css # Responsive and modern UI styles
--├── index.js # All chatbot logic (message flow, API call, voice)
--└── README.md # Project info and instructions
+├── index.html # Main HTML layout
+├── style.css # Responsive and modern UI styles
+├── index.js # All chatbot logic (message flow, API call, voice)
+└── README.md # Project info and instructions
 
 ---
 
@@ -48,10 +48,10 @@ const API_KEY = "your_API_KEY";
 
 ##🧪 Tested On
 
--✅ Chrome (Desktop + Android)
--✅ Edge
--✅ Firefox (partial voice support)
--❌ Safari (voice input not supported)
+✅ Chrome (Desktop + Android)
+✅ Edge
+✅ Firefox (partial voice support)
+❌ Safari (voice input not supported)
 
 License
 This project is open-source under the MIT License.
