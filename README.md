@@ -1,4 +1,4 @@
-#🤖 Gemini AI Chatbot in HTML CSS & JavaScript
+## 🤖 Gemini AI Chatbot in HTML CSS & JavaScript
 
 A modern, responsive chatbot built using HTML, CSS, and JavaScript — powered by Google's Gemini 2.0 Flash API. Includes voice input support, typing indicators, and clean UX.
 
@@ -56,4 +56,4 @@ const API_KEY = "your_API_KEY";
 License
 This project is open-source under the MIT License.
 
-Copyrights © 2025 Sura Tejaswani. All rights reserved.
+**Copyrights© 2025 Sura Tejaswani**. All rights reserved.
