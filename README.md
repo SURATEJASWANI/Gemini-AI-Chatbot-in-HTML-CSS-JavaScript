@@ -46,7 +46,7 @@ const API_KEY = "your_API_KEY";
 
 ---
 
-##🧪 Tested On
+## 🧪 Tested On
 
 ✅ Chrome (Desktop + Android) <br>
 ✅ Edge <br>
