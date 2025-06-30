@@ -56,4 +56,4 @@ const API_KEY = "your_API_KEY";
 License
 This project is open-source under the MIT License.
 
-Copyrights @ 2025 Sura Tejaswani
+Copyrights © 2025 Sura Tejaswani. All rights reserved.
