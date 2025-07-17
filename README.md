@@ -54,6 +54,6 @@ const API_KEY = "your_API_KEY";
 ❌ Safari (voice input not supported) <br><br>
 
 
-**Copyrights© 2025 Sura Tejaswani**. All rights reserved.
+**All rights reserved © Copyrights 2025 Sura Tejaswani**. All rights reserved.
 License <br>
 This project is open-source under the MIT License.
